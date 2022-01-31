@@ -1,2 +1,4 @@
+github.com/go-ini/ini v1.66.3 h1:Ftrhd6NNIEu4LdPoqP7fyXRFu/I3vRnY8GWpHa/Xsz4=
+github.com/go-ini/ini v1.66.3/go.mod h1:ByCAeIL28uOIIG0E3PJtZPDL8WnHpFKFOtgjp+3Ies8=
 github.com/mitchellh/go-homedir v1.1.0 h1:lukF9ziXFxDFPkA1vsr5zpc1XuPDn/wFntq5mG+4E0Y=
 github.com/mitchellh/go-homedir v1.1.0/go.mod h1:SfyaCUpYCn1Vlf4IUYiD9fPX4A5wJrkLzIz1N1q0pr0=
