@@ -7,6 +7,7 @@ require (
 	github.com/fsnotify/fsnotify v1.5.1 // indirect
 	github.com/go-ini/ini v1.66.3 // indirect
 	github.com/google/wire v0.5.0 // indirect
+	github.com/imdario/mergo v0.3.12 // indirect
 	github.com/jessevdk/go-flags v1.5.0 // indirect
 	github.com/joho/godotenv v1.4.0 // indirect
 	github.com/mitchellh/go-homedir v1.1.0 // indirect
