@@ -9,6 +9,7 @@ require (
 	github.com/google/wire v0.5.0 // indirect
 	github.com/imdario/mergo v0.3.12 // indirect
 	github.com/jessevdk/go-flags v1.5.0 // indirect
+	github.com/jinzhu/copier v0.3.5 // indirect
 	github.com/joho/godotenv v1.4.0 // indirect
 	github.com/mitchellh/go-homedir v1.1.0 // indirect
 	github.com/sirupsen/logrus v1.8.1 // indirect
