@@ -4,6 +4,7 @@ go 1.16
 
 require (
 	github.com/ThreeDotsLabs/watermill v1.1.1 // indirect
+	github.com/dave/jennifer v1.5.0 // indirect
 	github.com/fsnotify/fsnotify v1.5.1 // indirect
 	github.com/go-ini/ini v1.66.3 // indirect
 	github.com/google/wire v0.5.0 // indirect
