@@ -19,6 +19,7 @@ require (
 	github.com/spf13/viper v1.10.1 // indirect
 	github.com/thedevsaddam/gojsonq/v2 v2.5.2 // indirect
 	github.com/tidwall/buntdb v1.2.9 // indirect
+	github.com/tidwall/gjson v1.14.0 // indirect
 	github.com/uniplaces/carbon v0.1.6 // indirect
 	github.com/vardius/message-bus v1.1.5 // indirect
 	go.uber.org/dig v1.13.0 // indirect
