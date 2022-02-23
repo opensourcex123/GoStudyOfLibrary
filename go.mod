@@ -20,6 +20,7 @@ require (
 	github.com/thedevsaddam/gojsonq/v2 v2.5.2 // indirect
 	github.com/tidwall/buntdb v1.2.9 // indirect
 	github.com/tidwall/gjson v1.14.0 // indirect
+	github.com/tidwall/jj v1.9.2 // indirect
 	github.com/tidwall/sjson v1.2.4 // indirect
 	github.com/uniplaces/carbon v0.1.6 // indirect
 	github.com/vardius/message-bus v1.1.5 // indirect
