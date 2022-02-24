@@ -3,6 +3,7 @@ module GoStudyOfLibrary
 go 1.16
 
 require (
+	github.com/Knetic/govaluate v3.0.0+incompatible // indirect
 	github.com/ThreeDotsLabs/watermill v1.1.1 // indirect
 	github.com/dave/jennifer v1.5.0 // indirect
 	github.com/fsnotify/fsnotify v1.5.1 // indirect
