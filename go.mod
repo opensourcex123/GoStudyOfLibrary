@@ -8,6 +8,7 @@ require (
 	github.com/dave/jennifer v1.5.0 // indirect
 	github.com/fsnotify/fsnotify v1.5.1 // indirect
 	github.com/go-ini/ini v1.66.3 // indirect
+	github.com/go-playground/validator/v10 v10.10.0 // indirect
 	github.com/google/go-cmp v0.5.7 // indirect
 	github.com/google/wire v0.5.0 // indirect
 	github.com/imdario/mergo v0.3.12 // indirect
