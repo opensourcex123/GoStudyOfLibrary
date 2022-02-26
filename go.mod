@@ -16,6 +16,7 @@ require (
 	github.com/jinzhu/copier v0.3.5 // indirect
 	github.com/joho/godotenv v1.4.0 // indirect
 	github.com/mitchellh/go-homedir v1.1.0 // indirect
+	github.com/shirou/gopsutil/v3 v3.20.10 // indirect
 	github.com/sirupsen/logrus v1.8.1 // indirect
 	github.com/spf13/cast v1.4.1 // indirect
 	github.com/spf13/viper v1.10.1 // indirect
