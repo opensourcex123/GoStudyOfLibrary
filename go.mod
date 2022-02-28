@@ -28,5 +28,6 @@ require (
 	github.com/uniplaces/carbon v0.1.6 // indirect
 	github.com/vardius/message-bus v1.1.5 // indirect
 	go.uber.org/dig v1.13.0 // indirect
+	gonum.org/v1/plot v0.10.0 // indirect
 	gopkg.in/h2non/gentleman.v2 v2.0.5 // indirect
 )
