@@ -15,6 +15,7 @@ require (
 	github.com/jessevdk/go-flags v1.5.0 // indirect
 	github.com/jinzhu/copier v0.3.5 // indirect
 	github.com/joho/godotenv v1.4.0 // indirect
+	github.com/maxence-charriere/go-app/v6 v6.6.2 // indirect
 	github.com/mitchellh/go-homedir v1.1.0 // indirect
 	github.com/roylee0704/gron v0.0.0-20160621042432-e78485adab46 // indirect
 	github.com/shirou/gopsutil/v3 v3.20.10 // indirect
