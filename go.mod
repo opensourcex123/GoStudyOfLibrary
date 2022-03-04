@@ -18,6 +18,7 @@ require (
 	github.com/maxence-charriere/go-app/v6 v6.6.2 // indirect
 	github.com/mitchellh/go-homedir v1.1.0 // indirect
 	github.com/roylee0704/gron v0.0.0-20160621042432-e78485adab46 // indirect
+	github.com/rs/zerolog v1.26.1 // indirect
 	github.com/shirou/gopsutil/v3 v3.20.10 // indirect
 	github.com/sirupsen/logrus v1.8.1 // indirect
 	github.com/spf13/cast v1.4.1 // indirect
