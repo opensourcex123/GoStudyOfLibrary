@@ -30,6 +30,7 @@ require (
 	github.com/tidwall/sjson v1.2.4 // indirect
 	github.com/uniplaces/carbon v0.1.6 // indirect
 	github.com/vardius/message-bus v1.1.5 // indirect
+	github.com/xujiajun/nutsdb v0.6.0 // indirect
 	go.uber.org/dig v1.13.0 // indirect
 	go.uber.org/zap v1.21.0 // indirect
 	gonum.org/v1/plot v0.10.0 // indirect
