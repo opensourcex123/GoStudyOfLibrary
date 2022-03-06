@@ -9,12 +9,15 @@ require (
 	github.com/fsnotify/fsnotify v1.5.1 // indirect
 	github.com/go-ini/ini v1.66.3 // indirect
 	github.com/go-playground/validator/v10 v10.10.0 // indirect
+	github.com/go-sql-driver/mysql v1.6.0 // indirect
 	github.com/google/go-cmp v0.5.7 // indirect
 	github.com/google/wire v0.5.0 // indirect
 	github.com/imdario/mergo v0.3.12 // indirect
 	github.com/jessevdk/go-flags v1.5.0 // indirect
 	github.com/jinzhu/copier v0.3.5 // indirect
 	github.com/joho/godotenv v1.4.0 // indirect
+	github.com/kyleconroy/sqlc v1.12.0 // indirect
+	github.com/lib/pq v1.10.4 // indirect
 	github.com/maxence-charriere/go-app/v6 v6.6.2 // indirect
 	github.com/mitchellh/go-homedir v1.1.0 // indirect
 	github.com/roylee0704/gron v0.0.0-20160621042432-e78485adab46 // indirect
