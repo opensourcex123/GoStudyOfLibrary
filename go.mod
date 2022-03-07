@@ -10,6 +10,7 @@ require (
 	github.com/go-ini/ini v1.66.3 // indirect
 	github.com/go-playground/validator/v10 v10.10.0 // indirect
 	github.com/go-sql-driver/mysql v1.6.0 // indirect
+	github.com/go-xorm/xorm v0.7.9 // indirect
 	github.com/google/go-cmp v0.5.7 // indirect
 	github.com/google/wire v0.5.0 // indirect
 	github.com/imdario/mergo v0.3.12 // indirect
