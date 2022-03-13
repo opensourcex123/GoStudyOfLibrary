@@ -34,6 +34,7 @@ require (
 	github.com/tidwall/gjson v1.14.0
 	github.com/tidwall/sjson v1.2.4
 	github.com/uniplaces/carbon v0.1.6
+	github.com/urfave/negroni v1.0.0 // indirect
 	github.com/vardius/message-bus v1.1.5
 	github.com/xujiajun/nutsdb v0.6.0
 	go.uber.org/atomic v1.9.0 // indirect
