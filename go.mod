@@ -7,6 +7,7 @@ require (
 	github.com/Knetic/govaluate v3.0.1-0.20171022003610-9aa49832a739+incompatible
 	github.com/ThreeDotsLabs/watermill v1.1.1
 	github.com/casbin/casbin/v2 v2.42.0
+	github.com/cpuguy83/go-md2man/v2 v2.0.1 // indirect
 	github.com/dave/jennifer v1.5.0
 	github.com/fsnotify/fsnotify v1.5.1
 	github.com/go-ini/ini v1.66.3
@@ -34,6 +35,7 @@ require (
 	github.com/tidwall/gjson v1.14.0
 	github.com/tidwall/sjson v1.2.4
 	github.com/uniplaces/carbon v0.1.6
+	github.com/urfave/cli/v2 v2.3.0 // indirect
 	github.com/urfave/negroni v1.0.0 // indirect
 	github.com/vardius/message-bus v1.1.5
 	github.com/xujiajun/nutsdb v0.6.0
