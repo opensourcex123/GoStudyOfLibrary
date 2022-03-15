@@ -24,6 +24,7 @@ require (
 	github.com/maxence-charriere/go-app/v6 v6.6.2
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/nbio/st v0.0.0-20140626010706-e9e8d9816f32 // indirect
+	github.com/robfig/cron/v3 v3.0.1 // indirect
 	github.com/roylee0704/gron v0.0.0-20160621042432-e78485adab46
 	github.com/rs/zerolog v1.26.1
 	github.com/shirou/gopsutil/v3 v3.20.10
