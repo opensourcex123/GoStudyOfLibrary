@@ -4,6 +4,7 @@ go 1.16
 
 require (
 	fyne.io/fyne v1.4.3
+	github.com/Jeffail/gabs/v2 v2.6.1 // indirect
 	github.com/Knetic/govaluate v3.0.1-0.20171022003610-9aa49832a739+incompatible
 	github.com/ThreeDotsLabs/watermill v1.1.1
 	github.com/bamzi/jobrunner v1.0.0 // indirect
