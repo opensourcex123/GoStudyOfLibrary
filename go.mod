@@ -24,6 +24,7 @@ require (
 	github.com/joho/godotenv v1.4.0
 	github.com/lib/pq v1.10.4 // indirect
 	github.com/maxence-charriere/go-app/v6 v6.6.2
+	github.com/mingrammer/commonregex v1.0.1 // indirect
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/mitchellh/mapstructure v1.4.3 // indirect
 	github.com/nbio/st v0.0.0-20140626010706-e9e8d9816f32 // indirect
