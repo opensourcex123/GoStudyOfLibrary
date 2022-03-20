@@ -42,6 +42,7 @@ require (
 	github.com/uniplaces/carbon v0.1.6
 	github.com/urfave/cli/v2 v2.3.0 // indirect
 	github.com/urfave/negroni v1.0.0 // indirect
+	github.com/valyala/quicktemplate v1.7.0 // indirect
 	github.com/vardius/message-bus v1.1.5
 	github.com/xujiajun/nutsdb v0.6.0
 	go.uber.org/atomic v1.9.0 // indirect
