@@ -9,6 +9,7 @@ require (
 	github.com/ThreeDotsLabs/watermill v1.1.1
 	github.com/bamzi/jobrunner v1.0.0 // indirect
 	github.com/casbin/casbin/v2 v2.42.0
+	github.com/cosmtrek/air v1.29.0 // indirect
 	github.com/cpuguy83/go-md2man/v2 v2.0.1 // indirect
 	github.com/dave/jennifer v1.5.0
 	github.com/fsnotify/fsnotify v1.5.1
@@ -49,6 +50,7 @@ require (
 	go.uber.org/dig v1.13.0
 	go.uber.org/multierr v1.7.0 // indirect
 	go.uber.org/zap v1.21.0
+	golang.org/x/sys v0.0.0-20220319134239-a9b59b0215f8 // indirect
 	gonum.org/v1/plot v0.10.0
 	gopkg.in/h2non/gentleman.v2 v2.0.5
 )
