@@ -10,6 +10,7 @@ require (
 	github.com/ThreeDotsLabs/watermill v1.1.1
 	github.com/bamzi/jobrunner v1.0.0 // indirect
 	github.com/casbin/casbin/v2 v2.42.0
+	github.com/cenkalti/backoff/v4 v4.1.2 // indirect
 	github.com/cosmtrek/air v1.29.0 // indirect
 	github.com/cpuguy83/go-md2man/v2 v2.0.1 // indirect
 	github.com/dave/jennifer v1.5.0
@@ -30,6 +31,7 @@ require (
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/mitchellh/mapstructure v1.4.3 // indirect
 	github.com/nbio/st v0.0.0-20140626010706-e9e8d9816f32 // indirect
+	github.com/reactivex/rxgo/v2 v2.5.0 // indirect
 	github.com/robfig/cron/v3 v3.0.1 // indirect
 	github.com/roylee0704/gron v0.0.0-20160621042432-e78485adab46
 	github.com/rs/zerolog v1.26.1
@@ -37,6 +39,9 @@ require (
 	github.com/sirupsen/logrus v1.8.1
 	github.com/spf13/cast v1.4.1
 	github.com/spf13/viper v1.10.1
+	github.com/stretchr/objx v0.3.0 // indirect
+	github.com/stretchr/testify v1.7.1 // indirect
+	github.com/teivah/onecontext v1.3.0 // indirect
 	github.com/thedevsaddam/gojsonq/v2 v2.5.2
 	github.com/tidwall/buntdb v1.2.9
 	github.com/tidwall/gjson v1.14.0
