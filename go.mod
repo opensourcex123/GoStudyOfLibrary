@@ -8,9 +8,12 @@ require (
 	github.com/Knetic/govaluate v3.0.1-0.20171022003610-9aa49832a739+incompatible
 	github.com/PuerkitoBio/goquery v1.8.0 // indirect
 	github.com/ThreeDotsLabs/watermill v1.1.1
+	github.com/antchfx/htmlquery v1.2.4 // indirect
+	github.com/antchfx/xmlquery v1.3.10 // indirect
 	github.com/bamzi/jobrunner v1.0.0 // indirect
 	github.com/casbin/casbin/v2 v2.42.0
 	github.com/cenkalti/backoff/v4 v4.1.2 // indirect
+	github.com/chromedp/chromedp v0.8.0 // indirect
 	github.com/cosmtrek/air v1.29.0 // indirect
 	github.com/cpuguy83/go-md2man/v2 v2.0.1 // indirect
 	github.com/dave/jennifer v1.5.0
@@ -19,8 +22,10 @@ require (
 	github.com/go-playground/validator/v10 v10.10.0
 	github.com/go-sql-driver/mysql v1.6.0 // indirect
 	github.com/go-xorm/xorm v0.7.9
+	github.com/gocolly/colly/v2 v2.1.0 // indirect
 	github.com/google/go-cmp v0.5.7
 	github.com/google/wire v0.5.0
+	github.com/guonaihong/gout v0.2.11 // indirect
 	github.com/imdario/mergo v0.3.12
 	github.com/jessevdk/go-flags v1.5.0
 	github.com/jinzhu/copier v0.3.5
@@ -42,6 +47,7 @@ require (
 	github.com/stretchr/objx v0.3.0 // indirect
 	github.com/stretchr/testify v1.7.1 // indirect
 	github.com/teivah/onecontext v1.3.0 // indirect
+	github.com/temoto/robotstxt v1.1.2 // indirect
 	github.com/thedevsaddam/gojsonq/v2 v2.5.2
 	github.com/tidwall/buntdb v1.2.9
 	github.com/tidwall/gjson v1.14.0
@@ -58,5 +64,6 @@ require (
 	go.uber.org/zap v1.21.0
 	golang.org/x/sys v0.0.0-20220319134239-a9b59b0215f8 // indirect
 	gonum.org/v1/plot v0.10.0
+	google.golang.org/protobuf v1.28.0 // indirect
 	gopkg.in/h2non/gentleman.v2 v2.0.5
 )
