@@ -42,6 +42,7 @@ require (
 	github.com/robfig/cron/v3 v3.0.1
 	github.com/roylee0704/gron v0.0.0-20160621042432-e78485adab46
 	github.com/rs/zerolog v1.26.1
+	github.com/rsms/gotalk v1.3.7 // indirect
 	github.com/shirou/gopsutil/v3 v3.20.10
 	github.com/sirupsen/logrus v1.8.1
 	github.com/spf13/cast v1.4.1
@@ -65,6 +66,7 @@ require (
 	go.uber.org/dig v1.13.0
 	go.uber.org/multierr v1.7.0 // indirect
 	go.uber.org/zap v1.21.0
+	golang.org/x/net v0.0.0-20220412020605-290c469a71a5 // indirect
 	golang.org/x/sys v0.0.0-20220319134239-a9b59b0215f8 // indirect
 	gonum.org/v1/plot v0.10.0
 	google.golang.org/protobuf v1.28.0 // indirect
