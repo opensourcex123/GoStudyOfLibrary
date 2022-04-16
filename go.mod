@@ -59,6 +59,7 @@ require (
 	github.com/urfave/cli/v2 v2.4.0
 	github.com/urfave/negroni v1.0.0
 	github.com/valyala/bytebufferpool v1.0.0
+	github.com/valyala/fasttemplate v1.2.1 // indirect
 	github.com/valyala/quicktemplate v1.7.0
 	github.com/vardius/message-bus v1.1.5
 	github.com/xujiajun/nutsdb v0.6.0
