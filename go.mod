@@ -38,6 +38,7 @@ require (
 	github.com/mitchellh/mapstructure v1.4.3
 	github.com/nbio/st v0.0.0-20140626010706-e9e8d9816f32 // indirect
 	github.com/o1egl/govatar v0.4.1 // indirect
+	github.com/panjf2000/ants/v2 v2.4.8 // indirect
 	github.com/reactivex/rxgo/v2 v2.5.0
 	github.com/robfig/cron/v3 v3.0.1
 	github.com/roylee0704/gron v0.0.0-20160621042432-e78485adab46
