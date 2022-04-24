@@ -18,13 +18,14 @@ require (
 	github.com/bamzi/jobrunner v1.0.0
 	github.com/casbin/casbin/v2 v2.42.0
 	github.com/cenkalti/backoff/v4 v4.1.2 // indirect
-	github.com/charmbracelet/bubbletea v0.20.0 // indirect
+	github.com/charmbracelet/bubbletea v0.20.0
 	github.com/chromedp/cdproto v0.0.0-20220321060548-7bc2623472b3
 	github.com/chromedp/chromedp v0.8.0
 	github.com/clbanning/mxj/v2 v2.5.5 // indirect
 	github.com/dave/jennifer v1.5.0
 	github.com/fsnotify/fsnotify v1.5.1
 	github.com/go-ini/ini v1.66.3
+	github.com/go-ozzo/ozzo-validation/v4 v4.3.0
 	github.com/go-playground/validator/v10 v10.10.0
 	github.com/go-sql-driver/mysql v1.6.0 // indirect
 	github.com/go-xorm/xorm v0.7.9
