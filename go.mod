@@ -9,20 +9,17 @@ require (
 	github.com/Knetic/govaluate v3.0.1-0.20171022003610-9aa49832a739+incompatible
 	github.com/PuerkitoBio/goquery v1.8.0
 	github.com/ThreeDotsLabs/watermill v1.1.1
-	github.com/alibabacloud-go/darabonba-openapi v0.1.18
-	github.com/alibabacloud-go/dysmsapi-20170525/v2 v2.0.9
-	github.com/alibabacloud-go/tea v1.1.17
-	github.com/alibabacloud-go/tea-xml v1.1.2 // indirect
 	github.com/antchfx/htmlquery v1.2.4 // indirect
 	github.com/antchfx/xmlquery v1.3.10 // indirect
+	github.com/araddon/dateparse v0.0.0-20210429162001-6b43995a97de // indirect
 	github.com/bamzi/jobrunner v1.0.0
 	github.com/casbin/casbin/v2 v2.42.0
 	github.com/cenkalti/backoff/v4 v4.1.2 // indirect
 	github.com/charmbracelet/bubbletea v0.20.0
 	github.com/chromedp/cdproto v0.0.0-20220321060548-7bc2623472b3
 	github.com/chromedp/chromedp v0.8.0
-	github.com/clbanning/mxj/v2 v2.5.5 // indirect
 	github.com/dave/jennifer v1.5.0
+	github.com/drone/go-scm v1.21.1
 	github.com/fsnotify/fsnotify v1.5.1
 	github.com/go-ini/ini v1.66.3
 	github.com/go-ozzo/ozzo-validation/v4 v4.3.0
@@ -44,7 +41,6 @@ require (
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/mitchellh/mapstructure v1.4.3
 	github.com/muesli/ansi v0.0.0-20211031195517-c9f0611b6c70 // indirect
-	github.com/nbio/st v0.0.0-20140626010706-e9e8d9816f32 // indirect
 	github.com/o1egl/govatar v0.4.1
 	github.com/panjf2000/ants/v2 v2.4.8
 	github.com/reactivex/rxgo/v2 v2.5.0
