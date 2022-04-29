@@ -24,6 +24,7 @@ require (
 	github.com/go-ini/ini v1.66.3
 	github.com/go-ozzo/ozzo-validation/v4 v4.3.0
 	github.com/go-playground/validator/v10 v10.10.0
+	github.com/go-resty/resty/v2 v2.7.0 // indirect
 	github.com/go-sql-driver/mysql v1.6.0 // indirect
 	github.com/go-xorm/xorm v0.7.9
 	github.com/gocolly/colly/v2 v2.1.0
@@ -34,6 +35,7 @@ require (
 	github.com/imdario/mergo v0.3.12
 	github.com/jessevdk/go-flags v1.5.0
 	github.com/jinzhu/copier v0.3.5
+	github.com/jinzhu/now v1.1.5 // indirect
 	github.com/joho/godotenv v1.4.0
 	github.com/lib/pq v1.10.4 // indirect
 	github.com/maxence-charriere/go-app/v6 v6.6.2
@@ -72,10 +74,12 @@ require (
 	go.uber.org/dig v1.13.0
 	go.uber.org/multierr v1.7.0 // indirect
 	go.uber.org/zap v1.21.0
-	golang.org/x/net v0.0.0-20220412020605-290c469a71a5 // indirect
+	golang.org/x/net v0.0.0-20220425223048-2871e0cb64e4 // indirect
 	golang.org/x/sys v0.0.0-20220422013727-9388b58f7150 // indirect
 	golang.org/x/term v0.0.0-20220411215600-e5f449aeb171 // indirect
 	gonum.org/v1/plot v0.10.0
 	google.golang.org/protobuf v1.28.0 // indirect
 	gopkg.in/h2non/gentleman.v2 v2.0.5
+	gorm.io/driver/mysql v1.3.3 // indirect
+	gorm.io/gorm v1.23.5 // indirect
 )
