@@ -50,6 +50,7 @@ require (
 	github.com/roylee0704/gron v0.0.0-20160621042432-e78485adab46
 	github.com/rs/zerolog v1.26.1
 	github.com/rsms/gotalk v1.3.7
+	github.com/scylladb/termtables v0.0.0-20191203121021-c4c0b6d42ff4 // indirect
 	github.com/shirou/gopsutil/v3 v3.20.10
 	github.com/sirupsen/logrus v1.8.1
 	github.com/spf13/cast v1.4.1
