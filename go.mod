@@ -38,6 +38,7 @@ require (
 	github.com/jinzhu/now v1.1.5 // indirect
 	github.com/joho/godotenv v1.4.0
 	github.com/lib/pq v1.10.4 // indirect
+	github.com/markbates/goth v1.71.1 // indirect
 	github.com/maxence-charriere/go-app/v6 v6.6.2
 	github.com/mingrammer/commonregex v1.0.1
 	github.com/mitchellh/go-homedir v1.1.0
@@ -76,6 +77,7 @@ require (
 	go.uber.org/multierr v1.7.0 // indirect
 	go.uber.org/zap v1.21.0
 	golang.org/x/net v0.0.0-20220425223048-2871e0cb64e4 // indirect
+	golang.org/x/oauth2 v0.0.0-20220411215720-9780585627b5 // indirect
 	golang.org/x/sys v0.0.0-20220422013727-9388b58f7150 // indirect
 	golang.org/x/term v0.0.0-20220411215600-e5f449aeb171 // indirect
 	gonum.org/v1/plot v0.10.0
