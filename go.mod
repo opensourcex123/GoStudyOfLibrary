@@ -7,12 +7,9 @@ require (
 	github.com/Jeffail/gabs/v2 v2.6.1
 	github.com/Jeffail/tunny v0.1.4
 	github.com/Knetic/govaluate v3.0.1-0.20171022003610-9aa49832a739+incompatible
+	github.com/Microsoft/go-winio v0.5.2 // indirect
 	github.com/PuerkitoBio/goquery v1.8.0
 	github.com/ThreeDotsLabs/watermill v1.1.1
-	github.com/alibabacloud-go/darabonba-openapi v0.1.18
-	github.com/alibabacloud-go/ecs-20140526/v2 v2.1.1
-	github.com/alibabacloud-go/tea v1.1.17
-	github.com/alibabacloud-go/tea-xml v1.1.2 // indirect
 	github.com/antchfx/htmlquery v1.2.4 // indirect
 	github.com/antchfx/xmlquery v1.3.10 // indirect
 	github.com/araddon/dateparse v0.0.0-20210429162001-6b43995a97de
@@ -22,9 +19,11 @@ require (
 	github.com/charmbracelet/bubbletea v0.20.0
 	github.com/chromedp/cdproto v0.0.0-20220321060548-7bc2623472b3
 	github.com/chromedp/chromedp v0.8.0
-	github.com/clbanning/mxj/v2 v2.5.5 // indirect
 	github.com/dave/jennifer v1.5.0
-	github.com/drone/go-scm v1.21.1
+	github.com/docker/distribution v2.8.1+incompatible // indirect
+	github.com/docker/docker v20.10.16+incompatible
+	github.com/docker/go-connections v0.4.0 // indirect
+	github.com/docker/go-units v0.4.0 // indirect
 	github.com/fsnotify/fsnotify v1.5.1
 	github.com/go-ini/ini v1.66.3
 	github.com/go-ozzo/ozzo-validation/v4 v4.3.0
@@ -33,6 +32,7 @@ require (
 	github.com/go-sql-driver/mysql v1.6.0 // indirect
 	github.com/go-xorm/xorm v0.7.9
 	github.com/gocolly/colly/v2 v2.1.0
+	github.com/golang/protobuf v1.5.2 // indirect
 	github.com/google/go-cmp v0.5.7
 	github.com/google/wire v0.5.0
 	github.com/goombaio/namegenerator v0.0.0-20181006234301-989e774b106e
@@ -46,9 +46,15 @@ require (
 	github.com/mingrammer/commonregex v1.0.1
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/mitchellh/mapstructure v1.4.3
+	github.com/moby/term v0.0.0-20210619224110-3f7ff695adc6 // indirect
+	github.com/morikuni/aec v1.0.0 // indirect
 	github.com/muesli/ansi v0.0.0-20211031195517-c9f0611b6c70 // indirect
+	github.com/nbio/st v0.0.0-20140626010706-e9e8d9816f32 // indirect
 	github.com/o1egl/govatar v0.4.1
+	github.com/opencontainers/go-digest v1.0.0 // indirect
+	github.com/opencontainers/image-spec v1.0.2 // indirect
 	github.com/panjf2000/ants/v2 v2.4.8
+	github.com/rabbitmq/amqp091-go v1.3.4
 	github.com/reactivex/rxgo/v2 v2.5.0
 	github.com/robfig/cron/v3 v3.0.1
 	github.com/roylee0704/gron v0.0.0-20160621042432-e78485adab46
@@ -86,4 +92,5 @@ require (
 	gonum.org/v1/plot v0.10.0
 	google.golang.org/protobuf v1.28.0 // indirect
 	gopkg.in/h2non/gentleman.v2 v2.0.5
+	gotest.tools/v3 v3.2.0 // indirect
 )
