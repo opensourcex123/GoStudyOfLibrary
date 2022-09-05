@@ -12,7 +12,7 @@ import (
 
 func main() {
 	//client, err := ethclient.Dial("//./pipe/geth.ipc")
-	client, err := ethclient.DialContext(context.Background(), "http://192.168.0.106:8545")
+	client, err := ethclient.DialContext(context.Background(), "https://rest.baas.alipay.com")
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -29,44 +29,44 @@ func main() {
 
 	pendingCount, _ := client.PendingTransactionCount(context.Background())
 
-	log.Println(block)
-	log.Println(chainId)
+	log.Println("块数:", block)
+	log.Println("链id:", chainId)
 	//log.Println(string(code))
-	log.Println(networkId)
-	log.Println(txCount)
+	log.Println("网络id:", networkId)
+	log.Println("账户交易数:", txCount)
 	log.Println("等待的交易数：", pendingCount)
 
 	//tipCap, _ := client.SuggestGasTipCap(context.Background())
 	//feeCap, _ := client.SuggestGasPrice(context.Background())
 
 	json := `[
-	{
-		"inputs": [],
-		"name": "retrieve",
-		"outputs": [
-			{
-				"internalType": "uint256",
-				"name": "",
-				"type": "uint256"
-			}
-		],
-		"stateMutability": "view",
-		"type": "function"
-	},
-	{
-		"inputs": [
-			{
-				"internalType": "uint256",
-				"name": "num",
-				"type": "uint256"
-			}
-		],
-		"name": "store",
-		"outputs": [],
-		"stateMutability": "nonpayable",
-		"type": "function"
-	}
-]`
+		{
+			"inputs": [],
+			"name": "retrieve",
+			"outputs": [
+				{
+					"internalType": "uint256",
+					"name": "",
+					"type": "uint256"
+				}
+			],
+			"stateMutability": "view",
+			"type": "function"
+		},
+		{
+			"inputs": [
+				{
+					"internalType": "uint256",
+					"name": "num",
+					"type": "uint256"
+				}
+			],
+			"name": "store",
+			"outputs": [],
+			"stateMutability": "nonpayable",
+			"type": "function"
+		}
+	]`
 	abi, _ := abi.JSON(strings.NewReader(json))
 	data, _ := abi.Pack("retrieve")
 	msg := ethereum.CallMsg{
